@@ -1,2 +1,2 @@
 # Movie-booking-system
-This is a movie booking system using matlab
+The Movie Booking System is a simple MATLAB-based application designed to manage movie bookings. It allows users to select from available movies, view the seating arrangement, book seats, and view their bookings. The system requires MATLAB to run and does not need any external libraries. To use it, simply run the script and follow the on-screen prompts. This project is licensed under the MIT License, allowing for modifications and extensions.
